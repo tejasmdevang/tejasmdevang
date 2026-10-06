@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Tejas M Devang
 
-<!--
-**tejasmdevang/tejasmdevang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Java Backend Developer  
+🎓 M.S. in Computer Science — Syracuse University, USA
+💼 Former Software Engineer at Accenture  
+📍 Bengaluru, India  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Building scalable backend applications using **Java, Spring Boot & Microservices**
+- ☁️ Working with **AWS, Azure, Docker, Kafka & PostgreSQL**
+- 🤖 Exploring **Generative AI, RAG & AI Agents**
+- 🚀 Currently building an **AI Incident Resolution Platform**
+- 💼 Open to **Software Engineer / Backend Engineer / Java Developer** opportunities
